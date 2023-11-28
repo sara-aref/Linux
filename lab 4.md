@@ -60,5 +60,3 @@ Ans of 10,11,12,13,14,15:
 
 ### 19.Kill your processes only.
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/35e08867-0ca3-4d78-95ca-eb7edf8997da)
-
-### 18.Use the pgrep command to list your processes only
