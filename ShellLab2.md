@@ -56,18 +56,19 @@
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/ef895e06-8802-4605-a543-5dab462efb44)
 
 ### b. It check the permissions of the given argument (read/write/execute)
-
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/2174c659-a588-4c3a-93f3-b744a0c41c47)
 
 ### 8. Create a script called myinfo where:
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/ef6b29ce-6b0a-4ff5-a6a7-d5d48643827d)
+
 ### a. It asks the user about his/her logname.
-![UNFOUND]
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/921fde13-6a3b-4bf0-9fb6-3eaf89c22180)
 
 ### b. It print full info about files and directories in his/her home directory
-![UNFOUND]
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/f4681231-4f0e-48ac-878e-159c6ecf2996)
 
 ### c. Copy his/her files and directories as much as you can in /tmp directory.
-![UNFOUND]
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/7ffe0853-7eab-4502-b193-78677b4cb97e)
 
 ### d. Gets his current processes status.
-![UNFOUND
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/451d12b4-32df-4c42-b3c3-425bc8519eb8)
