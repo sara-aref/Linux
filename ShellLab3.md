@@ -56,7 +56,8 @@
 ### b. Press 2 to ls –a
 ### c. Press 3 to exit 
 ### Using select utility then while utility.
-![UNFOUND]
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/7e517aae-25d1-47e9-9cb3-f6f1bd6d0361)
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/14c8b095-142e-4bae-83cb-678ec3c672d9)
 
 ### 9. Write a script called myarr that ask a user how many elements he wants to enter in an array, fill the array and then print it.
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/6e530156-4222-40d3-862b-418b2c1e7802)
