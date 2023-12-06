@@ -49,7 +49,8 @@
 ### n1=$n1+1
 ### print $n2
 ### done
-![UNFOUND]
+
+Ans:1
 
 ### 8. Create the following menu:
 ### a. Press 1 to ls
