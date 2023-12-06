@@ -51,17 +51,15 @@
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/b8e3abac-48f5-416c-a20c-e0341e2977eb)
 
 ### 7. Create a script called mytest where:
-![UNFOUND]
-
 ### a. It check the type of the given argument (file/directory)
-![UNFOUND]
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/f06d8f2e-adca-459c-8016-7e4bb36e5bc6)
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/ef895e06-8802-4605-a543-5dab462efb44)
 
 ### b. It check the permissions of the given argument (read/write/execute)
-![UNFOUND]
+
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/2174c659-a588-4c3a-93f3-b744a0c41c47)
 
 ### 8. Create a script called myinfo where:
-![UNFOUND]
-
 ### a. It asks the user about his/her logname.
 ![UNFOUND]
 
@@ -72,4 +70,4 @@
 ![UNFOUND]
 
 ### d. Gets his current processes status.
-![UNFOUND]
+![UNFOUND
