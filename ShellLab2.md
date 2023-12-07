@@ -56,6 +56,7 @@
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/ef895e06-8802-4605-a543-5dab462efb44)
 
 ### b. It check the permissions of the given argument (read/write/execute)
+![UNFOUND]
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/2174c659-a588-4c3a-93f3-b744a0c41c47)
 
 ### 8. Create a script called myinfo where:
