@@ -20,6 +20,11 @@
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/72256435-4365-496f-8e59-79ac03948139)
 
 ### 4. Write a script called mybackup using for utility to create a backup of only files in your home directory.
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/22f2b5be-68ec-4a48-b919-8c7364f2cbd5)
+![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/7461fcdd-307a-4857-b4cc-dfe024e498fe)
+
+
+
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/baffbf06-d123-4c2a-bfa6-7bc499b3cc77)
 ![UNFOUND](https://github.com/sara-aref/Linux/assets/147546807/34ac90ec-e8f2-46b9-9ec7-da5d8270228f)
 
